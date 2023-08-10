@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @pezgordo
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... dis
-- 📫 How to reach me ... email
+- 👋 Hi, my name is Vicente Zamora "@pezgordo", I'm a developer from Bolivia
+  
+- 👀 I’m interested in learning new technologies and developing interesting and fun projects.
+  
+- 🌱 I’m currently self teaching myself Python and its many libraries.
+  
+- 💞️ I’m looking to collaborate on fun projects.
+  
+- 📫 How to reach me "vicente.zamora@gmail.com"
 
 <!---
 pezgordo/pezgordo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
